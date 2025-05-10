@@ -1,7 +1,7 @@
 ## Olá Rede 👋 ![](https://komarev.com/ghpvc/?username=warleyx10)
 ---
 
-Olá! Sou um profissional em transição de carreira, passando da área de vendas e gráfica rápida para o desenvolvimento de software, com um entusiasmo genuíno pela tecnologia e pela resolução de problemas.
+Me chamo Uarlei Silva,  Sou um profissional em transição de carreira, passando da área de vendas e gráfica rápida para o desenvolvimento de software, com um entusiasmo genuíno pela tecnologia e pela resolução de problemas.
 
 Atualmente, atuo com atendimento ao cliente e também presto suporte técnico em software e hardware para computadores e celulares, o que despertou ainda mais meu interesse em entender como tudo funciona por trás das telas.
 
